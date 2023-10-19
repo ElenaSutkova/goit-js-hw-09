@@ -16,3 +16,25 @@ img {
   display: block;
   max-width: 100%;
 }
+
+/* стилі до 2 завдання */
+
+.timer {
+  display: flex;
+  gap: 30px;
+
+}
+
+.field {
+  text-align: center;
+}
+
+.value {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.label {
+  font-size: 20px;
+  display: flex;
+}
